@@ -1,4 +1,5 @@
-![image alt](https://github.com/bangtam2405/bangtam2405/blob/main/cogai.jpg?raw=true)
+![Demo GIF](videochill.gif)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/tranlebangtam123/) 
 
